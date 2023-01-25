@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yiğit Narter</h1>
+####Hi 👋, I'm Yiğit Narter
 
 - 🔭 I’m currently studying **Electrical and Electronics Engineering** in **Bilkent University**
 
