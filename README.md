@@ -1,4 +1,4 @@
-####Hi 👋, I'm Yiğit Narter
+#### Hi 👋, I'm Yiğit Narter
 
 - 🔭 I’m currently studying **Electrical and Electronics Engineering** in **Bilkent University**
 
