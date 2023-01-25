@@ -1,6 +1,6 @@
 #### Hi 👋, I'm Yiğit Narter
 
-- 🔭 I’m currently studying **Electrical and Electronics Engineering** in **Bilkent University**
+- 🏫 I’m currently studying **Electrical and Electronics Engineering** in **Bilkent University**
 
 - 👨‍💻 Programming languages I know: **Pyhton, VHDL**
 
