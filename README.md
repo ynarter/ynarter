@@ -2,7 +2,7 @@
 
 - 🏫 I’m currently studying **Electrical and Electronics Engineering** in **Bilkent University**
 
-- 👨‍💻 Programming languages I know: **Pyhton, C++, C, Assembly, VHDL**
+- 👨‍💻 Programming languages I know: **Python, MATLAB, C++, C, Assembly, VHDL**
 
 - 📫 How to reach me: **yigitnarter@yahoo.com**
 
